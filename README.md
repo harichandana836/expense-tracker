@@ -44,18 +44,10 @@ A clean and modern expense management interface with:
 * Category filtering
 * Spending chart
 
-## 📚 What I Learned
-* DOM manipulation using JavaScript
-* Implementing CRUD operations
-* Using Local Storage for persistent data
-* Creating responsive layouts
-* Data visualization using Chart.js
-
 ## 👨‍💻 Author
 **Hari Chandana**
 Computer Science Student
 
-🔗 Portfolio: https://harichandana836.github.io/portfolio-website
 🔗 GitHub: https://github.com/harichandana836
 
 ⭐ If you like this project, feel free to star the repository!
